@@ -42,6 +42,7 @@ body {
 
 .ethereum p {
     font-size: 14px;
+    color: hsl(178, 100%, 50%);
 }
 
 .clock {
